@@ -1316,8 +1316,6 @@ ita_scenario.add(days=365, name="Medicine", kappa=kappa_med, sigma=sigma_med)
 ita_scenario.simulate(name="Medicine").tail(7).style.background_gradient(axis=0)
 
 
-# In[ ]:
-
 
 
 
